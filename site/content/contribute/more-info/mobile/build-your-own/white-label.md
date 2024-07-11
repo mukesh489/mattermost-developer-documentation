@@ -45,7 +45,7 @@ Splash screen and launch icons assets are replaced at build time when the enviro
 {{<note "Note:">}}
 Make sure the images have the same height, width, and DPI as the images that you are overriding.
 {{</note>}}
-
+ 
 ---
 
 ### Configuration
